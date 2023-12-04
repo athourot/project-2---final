@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Gabarito:wght@600&display=swap');
+body {
+  font-family: "Noto Sans";
+  text-align: center;
+  background-color: #88c6fc;
+}
+
+header {
+  background-color: #0c0260;
+  color: #00ffaa43;
+  padding: 10px;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav li {
+  display: inline;
+  margin: 0 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #fff;
+}
+
+nav ul li a:hover {
+  background-color: #3060d1;
+  color: #FFFFFF;
+}
+
+section {
+  background-color: #fff;
+  color: black;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  max-width: 850px;
+  display: block;
+}
+
+h2 {
+  font-size: 24px;
+  margin-top: 20px;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.header-gabarito {
+  font-family: Gabarito;
+}
+
+h1, h2, h3 {
+  font-family: 'DejaVu Sans Mono', monospace;
+  color: #440B11;
+  position: relative;
+  text-align: center;
+  font-size: 2em;
+}
+
+p {
+  margin: 10px 0;
+}
+
+ul {
+  list-style: none;
+  margin: 10px;
+  padding: 10px;
+}
+
+li {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 20px 0;
+  border: 5px solid #555;
+  border-style: inset;
+}
+
+.center-image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.center-text {
+  text-align: center;
+}
+
+.image-wrap {
+  overflow: auto;
+}
+
+.image-container{
+  float: right;
+  margin-right: 10px;
+  max-width: 100%;
+  max-height: 300px;
+}
+
+.margin-bottom {
+    margin-bottom: 20px;
+}
+
+.margin-top {
+  margin-top: 160px
+}
+iframe {
+  max-width: 100%;
+  width: 560px;
+  display: block;
+  margin: 0 auto;
+}
