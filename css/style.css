@@ -2,11 +2,7 @@
 body {
   font-family: "Noto Sans";
   text-align: center;
-}
-
-.hero {
   background-color: #5F9EA0
-  background-image: url("../media/water.jpg");
   color: #000000
 }
 
@@ -36,6 +32,7 @@ nav a {
 }
 
 nav ul li a:hover {
+  background-image: url("../media/water.jpg");
   background-color: #3060d1;
   color: #FFFFFF;
 }
