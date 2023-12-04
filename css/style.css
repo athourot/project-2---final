@@ -2,10 +2,15 @@
 body {
   font-family: "Noto Sans";
   text-align: center;
+}
+
+.hero {
+  background-color: #5F9EA0
   background-image: url("water.jpg/media");
   background-size: cover; 
   background-repeat: no-repeat;
   background-position: center center;
+  
 }
 
 header {
