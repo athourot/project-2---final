@@ -12,14 +12,14 @@ body {
 }
 
 header {
-  background-color: #0c0260;
+  background-color: #ffffff;
   color: #00ffaa43;
   padding: 10px;
   text-align: center;
 }
 
 nav {
-  background: linear-gradient(to right, #4e54c8, #8f94fb);
+  background: linear-gradient(to right, #ff8f33, #036601);
 }
 
 nav ul {
