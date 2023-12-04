@@ -2,7 +2,7 @@
 body {
   font-family: "Noto Sans";
   text-align: center;
-  background-image: url("media/water.jpg");
+  background-image: url("water.jpg/media");
   background-size: cover; 
   background-repeat: no-repeat;
   background-position: center center;
