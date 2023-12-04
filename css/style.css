@@ -59,6 +59,16 @@ h2 {
   font-weight: bold;
 }
 
+#map{
+  width: 90%;
+  height: 500px;
+  border-radius: 25px;
+  border-color: #FE5F55;
+  border-width: thick;
+  border-style: dotted;
+  margin: 0 auto;
+}
+
 .header-gabarito {
   font-family: Gabarito;
 }
