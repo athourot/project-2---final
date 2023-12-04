@@ -6,7 +6,7 @@ body {
 
 .hero {
   background-color: #5F9EA0
-  background-image: url("water.jpg/media");
+  background-image: url("media/water.jpg");
   background-size: cover; 
   background-repeat: no-repeat;
   background-position: center center;
