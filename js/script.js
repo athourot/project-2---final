@@ -8,12 +8,12 @@ function initMap() {
   });
 
   var jones = new google.maps.Marker({
-    position: { lat: 41.87333913541503, lng: -87.6280},
+    position: { lat: 41.8733, lng: -87.6280},
     map: map
   });
 
   var pool2 = new google.maps.Marker({
-    position: { lat: 41.9028, lng:-87.6225 },
+    position: { lat: 41.9028, lng: -87.6225 },
     map: map
   });
 
