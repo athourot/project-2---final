@@ -5,7 +5,7 @@ body {
 }
 
 body {
-  background-color: url("media/water.jpg");
+  background-image: url("media/water.jpg");
   background-size: cover; 
   background-repeat: no-repeat;
   background-position: center center;
