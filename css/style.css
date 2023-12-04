@@ -62,9 +62,6 @@ h2 {
 #map{
   width: 90%;
   height: 500px;
-  border-radius: 25px;
-  border-color: #00FFFF;
-  border-width: thick;
   margin: 0 auto;
 }
 
