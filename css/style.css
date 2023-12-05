@@ -43,7 +43,7 @@ section {
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
   max-width: 850px;
   display: block;
-  border: 10px dotted dashed solid double #ccc;
+  border: 10px double #ccc;
 }
 
 h2 {
