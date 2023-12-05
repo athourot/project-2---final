@@ -35,15 +35,15 @@ nav ul li a:hover {
 }
 
 section {
-  background-color:#ccc;
-  color: #FFA07A;
+  background-color: #fffaf0;
+  color: #000000;
   margin: 20px auto;
   padding: 20px;
   border-radius: 5px;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
   max-width: 850px;
   display: block;
-  border: 10px double #ffa07a;
+  border: 15px double #ffa07a;
 }
 
 h2 {
