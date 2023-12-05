@@ -6,8 +6,6 @@ body {
 }
 
 header {
-  background-color: #000000;
-  color: #00ffaa43;
   padding: 10px;
   text-align: center;
 }
@@ -31,21 +29,21 @@ nav a {
 }
 
 nav ul li a:hover {
-  background-image: url("../media/water.jpg");
   background-color: #3060d1;
   color: #FFFFFF;
 }
 
 section {
-  background-color: #fff;
-  color: black;
+  background-color:#9932CC;
+  color: white;
   margin: 20px auto;
   padding: 20px;
   border-radius: 5px;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
   max-width: 850px;
   display: block;
-  border: 5px solid #ccc;
+  border-style: dotted dashed solid double;
+  border: 10px solid #ccc;
 }
 
 h2 {
