@@ -2,13 +2,13 @@
 body {
   font-family: "Noto Sans";
   text-align: center;
-  background-color: #5F9EA0
+  background-color: #5F9EA0;
 }
 
 header {
   padding: 10px;
   text-align: center;
-  color: #F0F8FF
+  color: #F0F8FF;
 }
 
 nav {
@@ -77,7 +77,7 @@ h2 {
 
 p {
   margin: 10px 0;
-  font-family: "sans-serif";
+  font-family: "Andale Mono";
 }
 
 ul {
