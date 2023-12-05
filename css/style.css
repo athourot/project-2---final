@@ -12,7 +12,7 @@ header {
 }
 
 nav {
-  background: linear-gradient(to right, #ff8f33, #036601);
+  background: linear-gradient(to right, #DC143C, #FFD700);
 }
 
 nav ul {
@@ -35,8 +35,8 @@ nav ul li a:hover {
 }
 
 section {
-  background-color:#9932CC;
-  color: white;
+  background-color:#FFFAF0;
+  color: #FFA07A;
   margin: 20px auto;
   padding: 20px;
   border-radius: 5px;
